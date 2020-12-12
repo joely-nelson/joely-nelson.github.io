@@ -3,6 +3,7 @@ layout: post
 title: Using Data to Determine the Best Location for Wildlife Corridors for Wolf Restoration
 ---
 ***GIS Project.*** *December 13, 2017*
+<br>
 *By Joely Nelson*
 
 Using data from WDFW, WSDOT, and Defenders of Wildlife, I used ArcGIS to determine the location of barriers to wolf spread to the Pacific Coast Region, and propose road sections where the construction of wildlife corridors could help wolf dispersal into this region.
