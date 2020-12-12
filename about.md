@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My name is Joely Nelson. I’m a data scientist with over 2 years of professional experience pursuing a Master’s Degree in Computer Science & Engineering. I have a strong background in Python, data analysis, and machine learning methods. I’m adaptable and highly motivated to learn new technologies with the ability to juggle multiple projects at once.
