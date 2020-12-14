@@ -163,7 +163,7 @@ The best accuracy I achieved for the test set was 83.83% (correctly classified 1
 * epochs = 25
 * pool type: 2d pool
 
-Model 2
+### Model 2
 Although this model didn’t achieve as good of a test accuracy as the model above, this one has less issues with overfitting. This had a test accuracy of 82.43% (correctly classified 1234/1497 examples), but this model had overfitting problems with a train accuracy of 85.87% (correctly classified 11565/13468 examples).
 
 * feature_size = 2
