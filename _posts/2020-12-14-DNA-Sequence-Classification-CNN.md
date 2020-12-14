@@ -8,7 +8,7 @@ title: DNA Sequence Classification by CNN
 
 In this project, I developed a convolutional neural network to classify DNA sequences from two data sets. I mimic the architecture of the CNN used in prior work on two different datasets, and achieve close to the paper’s accuracy.
 
-VIDEO
+Video coming soon... :)
 
 [Github code](https://github.com/joely-nelson/deep_learning_DNA_CNN)
 
@@ -69,7 +69,7 @@ In my words, the tokenized input sequence is first put through an encoder. Then 
 
 ![]({{ site.baseurl }}/images/cse590_architecture.png)
 
-*A visual representation of the network described*
+A visual representation of the network they described
 
 Although the paper recognizes the importance of hyperparameters, it does not provide any information about them (such as decay, learning rate, or momentum) nor kernel filters used in the convolutional layers. Trying to replicate the results by trying out different hyperparameters was the bulk of work for this project.
 
@@ -79,7 +79,7 @@ Their model has a 90% train 10% test split, and so the same will be used for thi
 
 
 ## Splice Dataset
-Dataset can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)
+Dataset can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences))
 
 This dataset contains information about splice junctions. In genes, regions which are removed during the RNA transcription process are called introns, and regions that are used to generate mRNA are called exons. Junctions between them are called splice junctions. There are two kinds of splice junction that is exon-intron junction, and intron-exon junctions.
 
@@ -137,9 +137,9 @@ This model does 1% better than the one from the paper, implying it classifies 1 
 
 
 ## H3 Dataset
-Dataset can be downloaded here: http://www.jaist.ac.jp/~tran/nucleosome/members.htm
+Dataset can be downloaded [here](http://www.jaist.ac.jp/~tran/nucleosome/members.htm)
 
-The H3 data sets DNA sequences which wrap around histone proteins. It is a mechanism used to pack and store long DNA sequences into a cell’s nucleus. Sequences in this dataset are 500 base pairs long and belong to one of 2 classes: and belong to “Positive” or “Negative” class. Samples in “Positive” class contain regions wrapping around histone proteins. In contrast, samples in “Negative” class do not contain them. There are 7298 examples of the negative class, and 7667 examples of the positive class.
+The H3 data set is of DNA sequences which wrap around histone proteins. It is a mechanism used to pack and store long DNA sequences into a cell’s nucleus. Sequences in this dataset are 500 base pairs long and belong to one of 2 classes: and belong to “Positive” or “Negative” class. Samples in “Positive” class contain regions wrapping around histone proteins. In contrast, samples in “Negative” class do not contain them. There are 7298 examples of the negative class, and 7667 examples of the positive class.
 
 The paper was able to achieve an accuracy of 88.99% for this dataset. I was unable to achieve within less than 5% of this accuracy, here are the models that got closest.
 
