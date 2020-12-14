@@ -69,7 +69,7 @@ In my words, the tokenized input sequence is first put through an encoder. Then 
 
 ![]({{ site.baseurl }}/images/cse590_architecture.png)
 
-A visual representation of the network they described
+*A visual representation of the network described*
 
 Although the paper recognizes the importance of hyperparameters, it does not provide any information about them (such as decay, learning rate, or momentum) nor kernel filters used in the convolutional layers. Trying to replicate the results by trying out different hyperparameters was the bulk of work for this project.
 
