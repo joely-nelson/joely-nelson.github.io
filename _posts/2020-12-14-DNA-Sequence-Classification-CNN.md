@@ -8,9 +8,9 @@ title: DNA Sequence Classification by CNN
 
 In this project, I developed a convolutional neural network to classify DNA sequences from two data sets. I mimic the architecture of the CNN used in prior work on two different datasets, and achieve close to the paper’s accuracy.
 
-*Video coming soon :)*
+VIDEO
 
-[See the code](#https://github.com/joely-nelson/deep_learning_DNA_CNN)
+[Github code](https://github.com/joely-nelson/deep_learning_DNA_CNN)
 
 <!-- more -->
 
