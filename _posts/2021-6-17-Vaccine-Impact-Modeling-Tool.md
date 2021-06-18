@@ -19,5 +19,5 @@ In December 2020, the FDA issued the first emergency use authorization for the u
 
 My main part in this project was designing a simple model to be used for the visulization, and designing the framework for a model tempelate that other modelers could use to write their own models in Python to be displayed on the map.
 
-For this project we wrote a paper detailing our process. You can download the pdf here: [CSE_482B_Final_Paper_Vaccine_Modeling_Impact_Tool.pdf]({{file name='../documents/CSE_482B_Final_Paper_Vaccine_Modeling_Impact_Tool.pdf'}})
+For this project we wrote a paper detailing our process. You can download the pdf here: [CSE_482B_Final_Paper_Vaccine_Modeling_Impact_Tool.pdf](../documents/CSE_482B_Final_Paper_Vaccine_Modeling_Impact_Tool.pdf)
 
