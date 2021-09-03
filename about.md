@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/inthesnow.jpg"> 
 My name is Joely Nelson. I'm currently a student at the University of Washington pursuing a Master’s Degree in Computer Science & Engineering. I love the Pacific Northwest and hope to become a professional data scientist in Seattle.
 
 I have a strong background in Python, data analysis, and machine learning methods. I’m adaptable and highly motivated to learn new technologies with the ability to juggle multiple projects at once.
@@ -18,9 +17,6 @@ I have a strong background in Python, data analysis, and machine learning method
 <img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/Engineering Discovering Days.jpg"> 
 When I initially came into University of Washington, I planned to major in environmental science since I am extremely interested in protecting wildlife and the environment. However, I found the program to be lacking in math and computing skills. I decided to pursue computer science to get a strong background in computing and algorithms with the hope of using these skills to solve real world problems.
 
-<img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/walking tasker.JPG"> 
-I spent the next three years growing my skills by taking classes and participating in research. During the 2017-2018 school year I was part of a team of researchers at UW known as AccessMaps where we worked to create an application that would provide walking directions with information about inclines, curb ramps, and more.
-
 I started work as a TA during my junior year of undergrad and have continued into grad school. I work as a TA for non-major Python classes where I try to create a welcoming environment to foster a love of computer science in my students, many of whom had never coded before. I remember how daunting coding for the first time can be, so I want my students to feel as comfortable as possible. I find teaching extremely rewarding and hope that I can continue to teach and mentor in the future.
 
 I am currently participating in computational synthetic biology research. I fell into this area in 2018. I saw an intro to synthetic biology class being offered. It had advanced math prerequisites (such as differential equations and linear algebra) that luckily I all had. I loved to concept of applying mathematical modeling and data analysis to solve real world biology problems. After talking to the professor, James Carothers, he invited me to work in his lab, where I was mentored by other students and learned more about modeling and analytics. I still work there on 
@@ -28,7 +24,7 @@ I am currently participating in computational synthetic biology research. I fell
 <img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/Lux Film.jpg"> 
 During my free time as an undergraduate, I participated in film making. I first joined the Lux Film Club, where I helped produce several short films as an editor. I worked on short films such as [Dawg's Life](https://www.youtube.com/watch?v=RM3WMpw6tHI), [Peanut Butter](https://www.youtube.com/watch?v=XpSmAbKtWtk), [Microfilm: What If?](https://www.youtube.com/watch?v=Tqd7M1ddnvI) and [MicroFilm: Psst Dry Shampoo](https://www.youtube.com/watch?v=46H8nbax5XY) (where I even make a short acting appearance!) I also worked for a time for the University of Washington’s school paper, The Daily, where I filmed and edited videos such as [The Hub Walkthrough]( https://www.youtube.com/watch?v=hRCoN9IsyZo) , [The Daily's Guide to The Best UW Study Spots]( https://www.youtube.com/watch?v=jB_WRkcA6tg), [Beginners Guide To Campus Navigation](https://www.youtube.com/watch?v=HKhs9ScDDgA)  and [Beginner's Guide to the UW Gear Garage](https://www.youtube.com/watch?v=VnzUBnU6IdM).
 
-<img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/PnPGA.jpg"> 
+<img style="float: right; width:400px;" src="https://joely-nelson.github.io/images/PnPGA.jpg"> 
 I was also a member of the table top roleplaying club, where I played and organized games such as dungeons and dragons. I eventually became president of the club and worked on increasing diversity and inclusion as well as planning fun events and managing the growing club population.
 
 <img style="float: right; width:300px;" src="https://joely-nelson.github.io/images/Joely Nelson Grad.jpg"> 
