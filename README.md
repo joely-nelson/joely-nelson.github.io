@@ -1,5 +1,27 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
+# Joely Notes for Windows 10
+
+To get Jekyll running locally:
+
+1. Go to https://jekyllrb.com/docs/installation/windows/ to install ruby
+
+2. Open up git bash in the directory where your website is and run the following:
+
+```
+gem install jekyll bundler
+gem update
+bundle init
+bundle add jekyll
+bundle add webrick
+```
+
+3. Whenever you want to view your site locally, run:
+
+```bundle exec jekyll serve```
+
+4. You'll find the website up at: http://localhost:4000/
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
