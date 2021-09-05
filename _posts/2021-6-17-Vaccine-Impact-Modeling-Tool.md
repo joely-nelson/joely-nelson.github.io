@@ -10,7 +10,7 @@ The Vaccine Impact Modeling Tool is an interactive modeling tool, given user inp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ePIrc7szvMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Made as the final project for CSE 482B: Capstone Software Design to Empower Undeserved Populations at the University of Washington.
+Made as the final project for CSE 482B: Capstone Software Design to Empower Underserved Populations at the University of Washington.
 
 [Github](https://github.com/joely-nelson/VaccineModelingTool)
 
