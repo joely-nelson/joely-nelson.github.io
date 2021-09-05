@@ -6,7 +6,7 @@ title: DNA Sequence Classification by CNN
 <br>
 *By Joely Nelson*
 
-In this project, I developed a convolutional neural network to classify DNA sequences from two data sets. I mimic the architecture of the CNN used in prior work on two different datasets, and achieve close to the paper’s accuracy.
+In this project, I developed a convolutional neural network (CNN) to classify DNA sequences from two data sets. I mimic the architecture of the CNN used in prior work on two different datasets, and achieve close to the paper’s accuracy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pst4gdwaHEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
