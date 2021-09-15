@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Joely Nelson. I'm currently a student at the University of Washington pursuing a Master’s Degree in Computer Science & Engineering. I love the Pacific Northwest and hope to become a professional data scientist in the greater Seattle area.
+My name is Joely Nelson. I'm currently a student at the University of Washington pursuing a Master’s Degree in Computer Science & Engineering. I love the Pacific Northwest and hope to become a professional data scientist in the greater Seattle area after I graduate. I'm especially interested in data science applications to computer security, biology, and environmental science.
+
+During the school year I work in a synthetic biology lab where I study data analytics applied to computational biology. This summer I worked at Sandia as an R&D intern  on a project where I researched the efficacy of data analytics as a means of expediting software behavior analysis.
 
 I have a strong background in Python, data analysis, and machine learning methods. I’m adaptable and highly motivated to learn new technologies with the ability to juggle multiple projects at once.
 
