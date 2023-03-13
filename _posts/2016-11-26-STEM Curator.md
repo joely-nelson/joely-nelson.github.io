@@ -2,7 +2,7 @@
 layout: post
 title: STEM Curator: Women in STEM
 ---
-***Scratch Project.*** *December 13, 2017*
+***Scratch Project.*** *November 26, 2016*
 <br>
 *By Joely Nelson*
 
