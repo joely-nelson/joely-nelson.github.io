@@ -36,3 +36,6 @@ In the summer of 2021 I had the privilege of working as an R&D intern focused on
 
 See <a href="{{ site.baseurl }}/Internship-Presentation/" target="_blank">this post</a> for a presentation on my internship work.
 
+###  Pacific Northwest National Laboratory
+In my role as a data scientist at Pacific Northwest National Laboratory, I have led elements of multiple applied data science projects, demonstrating my aptitude for research, implementation, and optimization. Notable achievements include: (1) spearheading the development of an open-source language translator package for a medical intelligence dashboard (2) designing and implementing a machine learning model to identify relevant articles with high accuracy rates (3) revamping and optimizing the codebase for a cybersecurity project focused on modeling cyber risks in agricultural systems, resulting in enhanced clarity, efficiency, and visualization capabilities.
+
